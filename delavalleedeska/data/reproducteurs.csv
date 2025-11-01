@@ -1,0 +1,10 @@
+id,nom,sexe,naissance,pedigree,sante,caractere,activites,images,description
+eska-dor,Eska d'Or,Femelle,2018-04-12,LOF n°12345,Hanches A; MDR1 N/N; HSF4 clear,"Doux, maternel, sportif",Agility|Expositions,/images/reproducteurs/eska-1.jpg,"Chienne issue de lignées sélectionnées, excellente mère, comportement doux et sociable."
+luna-bleu,Luna Bleu,Femelle,2019-06-02,LOF n°22334,Hanches A; MDR1 N/N,"Vive, très attachée à la famille",Canicross,/images/reproducteurs/luna-1.jpg,"Luna est une chienne vive et sociable, parfaite pour familles sportives."
+mimi-rose,Mimi Rose,Femelle,2020-01-20,LOF n°33445,Hanches B; MDR1 N/N,"Calme, affectueuse",,/images/reproducteurs/mimi-1.jpg,"Chienne calme et très affectueuse, excellente en compagnie d'enfants."
+flora-verte,Flora Verte,Femelle,2016-10-11,LOF n°44556,Hanches A; MDR1 N/N,"Protectrice, alerte",Expositions,/images/reproducteurs/flora-1.jpg,Flora a un très beau phénotype et donne de magnifiques portées.
+rosa-dune,Rosa Dune,Femelle,2015-05-05,LOF n°55667,Hanches A; MDR1 N/N,"Douce, maternelle",,/images/reproducteurs/rosa-1.jpg,Rosa est une référence en terme de caractère et sociabilité.
+monty-val,Monty du Val,Mâle,2017-09-03,LOF n°67890,Hanches B; MDR1 N/N; HSF4 carrier,"Actif, travailleur",Canicross|Obéissance,/images/reproducteurs/monty-1.jpg,"Mâle actif, très bon caractère, ayant de bons résultats en travail sportif."
+leo-sky,Léo Sky,Mâle,2016-02-14,LOF n°77889,Hanches A; MDR1 N/N,"Stable, obéissant",Agility,/images/reproducteurs/leo-1.jpg,Léo est un mâle très stable utilisé pour améliorer les caractères calmes.
+max-rose,Max Rose,Mâle,2018-11-21,LOF n°88990,Hanches B; MDR1 N/N,"Joueur, dynamique",Sport,/images/reproducteurs/max-1.jpg,Max apporte du peps et du dynamisme aux portées.
+odin-nord,Odin Nord,Mâle,2015-08-08,LOF n°99001,Hanches A; MDR1 N/N,"Protecteur, intelligent",Obéissance,/images/reproducteurs/odin-1.jpg,Odin est un mâle impressionnant par son gabarit et son intelligence.
