@@ -1,0 +1,23 @@
+[
+  {
+    "id": "portee-2025-01",
+    "parents": "Eska d'Or x Monty du Val",
+    "date_naissance": "2025-01-15",
+    "statut": "Archiv\u00e9e",
+    "chiots": "[{\"nom\": \"Rouxette\", \"sexe\": \"Femelle\", \"statut\": \"Adopt\\u00e9e\"}, {\"nom\": \"Blue\", \"sexe\": \"M\\u00e2le\", \"statut\": \"Adopt\\u00e9\"}]"
+  },
+  {
+    "id": "portee-2024-06",
+    "parents": "Luna Bleu x L\u00e9o Sky",
+    "date_naissance": "2024-06-10",
+    "statut": "Archiv\u00e9e",
+    "chiots": "[{\"nom\": \"Sunny\", \"sexe\": \"Femelle\", \"statut\": \"Adopt\\u00e9e\"}]"
+  },
+  {
+    "id": "portee-2025-11",
+    "parents": "Rosa Dune x Max Rose",
+    "date_naissance": "2025-11-20",
+    "statut": "A venir",
+    "chiots": "[]"
+  }
+]
