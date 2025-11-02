@@ -1,0 +1,144 @@
+[
+  {
+    "id": "eska-dor",
+    "nom": "Eska d'Or",
+    "sexe": "Femelle",
+    "naissance": "2018-04-12",
+    "pedigree": "LOF n\u00b012345",
+    "sante": "Hanches A; MDR1 N/N; HSF4 clear",
+    "caractere": "Doux, maternel, sportif",
+    "activites": [
+      "Agility",
+      "Expositions"
+    ],
+    "images": [
+      "/images/reproducteurs/eska-1.jpg"
+    ],
+    "description": "Chienne issue de lign\u00e9es s\u00e9lectionn\u00e9es, excellente m\u00e8re, comportement doux et sociable."
+  },
+  {
+    "id": "luna-bleu",
+    "nom": "Luna Bleu",
+    "sexe": "Femelle",
+    "naissance": "2019-06-02",
+    "pedigree": "LOF n\u00b022334",
+    "sante": "Hanches A; MDR1 N/N",
+    "caractere": "Vive, tr\u00e8s attach\u00e9e \u00e0 la famille",
+    "activites": [
+      "Canicross"
+    ],
+    "images": [
+      "/images/reproducteurs/luna-1.jpg"
+    ],
+    "description": "Luna est une chienne vive et sociable, parfaite pour familles sportives."
+  },
+  {
+    "id": "mimi-rose",
+    "nom": "Mimi Rose",
+    "sexe": "Femelle",
+    "naissance": "2020-01-20",
+    "pedigree": "LOF n\u00b033445",
+    "sante": "Hanches B; MDR1 N/N",
+    "caractere": "Calme, affectueuse",
+    "activites": [],
+    "images": [
+      "/images/reproducteurs/mimi-1.jpg"
+    ],
+    "description": "Chienne calme et tr\u00e8s affectueuse, excellente en compagnie d'enfants."
+  },
+  {
+    "id": "flora-verte",
+    "nom": "Flora Verte",
+    "sexe": "Femelle",
+    "naissance": "2016-10-11",
+    "pedigree": "LOF n\u00b044556",
+    "sante": "Hanches A; MDR1 N/N",
+    "caractere": "Protectrice, alerte",
+    "activites": [
+      "Expositions"
+    ],
+    "images": [
+      "/images/reproducteurs/flora-1.jpg"
+    ],
+    "description": "Flora a un tr\u00e8s beau ph\u00e9notype et donne de magnifiques port\u00e9es."
+  },
+  {
+    "id": "rosa-dune",
+    "nom": "Rosa Dune",
+    "sexe": "Femelle",
+    "naissance": "2015-05-05",
+    "pedigree": "LOF n\u00b055667",
+    "sante": "Hanches A; MDR1 N/N",
+    "caractere": "Douce, maternelle",
+    "activites": [],
+    "images": [
+      "/images/reproducteurs/rosa-1.jpg"
+    ],
+    "description": "Rosa est une r\u00e9f\u00e9rence en terme de caract\u00e8re et sociabilit\u00e9."
+  },
+  {
+    "id": "monty-val",
+    "nom": "Monty du Val",
+    "sexe": "M\u00e2le",
+    "naissance": "2017-09-03",
+    "pedigree": "LOF n\u00b067890",
+    "sante": "Hanches B; MDR1 N/N; HSF4 carrier",
+    "caractere": "Actif, travailleur",
+    "activites": [
+      "Canicross",
+      "Ob\u00e9issance"
+    ],
+    "images": [
+      "/images/reproducteurs/monty-1.jpg"
+    ],
+    "description": "M\u00e2le actif, tr\u00e8s bon caract\u00e8re, ayant de bons r\u00e9sultats en travail sportif."
+  },
+  {
+    "id": "leo-sky",
+    "nom": "L\u00e9o Sky",
+    "sexe": "M\u00e2le",
+    "naissance": "2016-02-14",
+    "pedigree": "LOF n\u00b077889",
+    "sante": "Hanches A; MDR1 N/N",
+    "caractere": "Stable, ob\u00e9issant",
+    "activites": [
+      "Agility"
+    ],
+    "images": [
+      "/images/reproducteurs/leo-1.jpg"
+    ],
+    "description": "L\u00e9o est un m\u00e2le tr\u00e8s stable utilis\u00e9 pour am\u00e9liorer les caract\u00e8res calmes."
+  },
+  {
+    "id": "max-rose",
+    "nom": "Max Rose",
+    "sexe": "M\u00e2le",
+    "naissance": "2018-11-21",
+    "pedigree": "LOF n\u00b088990",
+    "sante": "Hanches B; MDR1 N/N",
+    "caractere": "Joueur, dynamique",
+    "activites": [
+      "Sport"
+    ],
+    "images": [
+      "/images/reproducteurs/max-1.jpg"
+    ],
+    "description": "Max apporte du peps et du dynamisme aux port\u00e9es."
+  },
+  {
+    "id": "odin-nord",
+    "nom": "Odin Nord",
+    "sexe": "M\u00e2le",
+    "naissance": "2015-08-08",
+    "pedigree": "LOF n\u00b099001",
+    "sante": "Hanches A; MDR1 N/N",
+    "caractere": "Protecteur, intelligent",
+    "activites": [
+      "Ob\u00e9issance"
+    ],
+    "images": [
+      "/images/reproducteurs/odin-1.jpg"
+    ],
+    "description": "Odin est un m\u00e2le impressionnant par son gabarit et son intelligence."
+  }
+]
